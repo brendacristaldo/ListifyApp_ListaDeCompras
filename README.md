@@ -1,11 +1,9 @@
-# ListifyApp  
-
-## ListifyApp
+# ListifyApp
 
 
 ![ListifyApp Logo](https://github.com/Org-ES-ES43C/ListifyApp-RS-2023.2/blob/main/Listify%20Logo.png)
 
-
+### Desenvolvedoras:
 Ana Beatriz Maciel Ferraz:  https://github.com/anabmferraz
 
 Brenda Beatriz Cristaldo: https://github.com/brendacristaldo
